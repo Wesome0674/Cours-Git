@@ -8,7 +8,7 @@
  const var = "test";
 ````
 
-![Favicon alt text|100px](./.compiiile/public/favicon.png "Favicon title")
+![Favicon alt text|100px](./IMG_4527.JPEG "Evann")
 
 <p style="color: red; font-size: 3rem;">
     Salut
